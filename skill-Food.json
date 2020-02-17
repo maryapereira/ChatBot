@@ -1,0 +1,1160 @@
+{
+  "intents": [
+    {
+      "intent": "beneficios_peixe",
+      "examples": [
+        {
+          "text": "Por que o peixe faz bem à saúde?"
+        },
+        {
+          "text": "peixe"
+        },
+        {
+          "text": "Quais os benefícios do consumo de peixe?"
+        },
+        {
+          "text": "O peixe tem vitaminas?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de peixe"
+    },
+    {
+      "intent": "beneficios_alface",
+      "examples": [
+        {
+          "text": "Alface faz bem para o que?"
+        },
+        {
+          "text": "Quais os benefícios do alface?"
+        },
+        {
+          "text": "Alface"
+        },
+        {
+          "text": "Quais vitaminas o alface tem?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo do alface"
+    },
+    {
+      "intent": "beneficios_tomate",
+      "examples": [
+        {
+          "text": "Tomate"
+        },
+        {
+          "text": "Quais os benefícios do tomate?"
+        },
+        {
+          "text": "Quais vitaminas o tomate tem?"
+        },
+        {
+          "text": "Tomate faz o bem para o que?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de tomate"
+    },
+    {
+      "intent": "beneficios_beterraba",
+      "examples": [
+        {
+          "text": "Quais vitaminas a beterraba tem?"
+        },
+        {
+          "text": "beterraba"
+        },
+        {
+          "text": "Quais os benefícios da beterraba?"
+        },
+        {
+          "text": "Beterraba faz bem para o que?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de beterraba"
+    },
+    {
+      "intent": "beneficios_carne_vermelha",
+      "examples": [
+        {
+          "text": "Quais os benefícios da carne vermelha?"
+        },
+        {
+          "text": "Carne vermelha tem vitaminas?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de carne vermelha"
+    },
+    {
+      "intent": "beneficios_mandioca",
+      "examples": [
+        {
+          "text": "Mandioca faz bem à saúde?"
+        },
+        {
+          "text": "Mandioca tem vitaminas?"
+        },
+        {
+          "text": "Quais os benefícios do consumo de mandioca?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de mandioca"
+    },
+    {
+      "intent": "beneficios_batata",
+      "examples": [
+        {
+          "text": "Batata tem vitaminas?"
+        },
+        {
+          "text": "Quais os benefícios da batata?"
+        },
+        {
+          "text": "Batata"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de batata"
+    },
+    {
+      "intent": "tipos_proteinas",
+      "examples": [
+        {
+          "text": "Proteína"
+        },
+        {
+          "text": "Quais tipos de proteínas tem?"
+        },
+        {
+          "text": "Quais são as proteínas disponíveis?"
+        },
+        {
+          "text": "Quero proteína"
+        }
+      ],
+      "description": "Descrever quais tipos de proteínas tem para montar o prato"
+    },
+    {
+      "intent": "beneficios_salada",
+      "examples": [
+        {
+          "text": "Comer salada evita doenças?"
+        },
+        {
+          "text": "Salada faz bem para o que?"
+        },
+        {
+          "text": "Quais os benefícios de comer salada?"
+        },
+        {
+          "text": "Por que é bom comer salada?"
+        }
+      ],
+      "description": "Apresentar perguntas sobre os benefícios do consumo de salada"
+    },
+    {
+      "intent": "beneficios_cenoura",
+      "examples": [
+        {
+          "text": "Cenoura faz bem para o que?"
+        },
+        {
+          "text": "cenoura"
+        },
+        {
+          "text": "Quais os benefícios da cenoura?"
+        },
+        {
+          "text": "Quais vitaminas a cenoura tem?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de cenoura"
+    },
+    {
+      "intent": "beneficios_proteina",
+      "examples": [
+        {
+          "text": "Proteína faz bem para o que?"
+        },
+        {
+          "text": "Quais os benefícios de comer proteína?"
+        }
+      ],
+      "description": "Demonstrar quais os benefícios no consumo de proteínas"
+    },
+    {
+      "intent": "montar_prato",
+      "examples": [
+        {
+          "text": "Como faço para montar meu prato?"
+        },
+        {
+          "text": "Como posso montar meu prato?"
+        },
+        {
+          "text": "Quais opções de alimentos tem ?"
+        },
+        {
+          "text": "Quero opções de salada"
+        }
+      ],
+      "description": "Dar opções para que o cliente escolha itens para montar um prato de comida"
+    },
+    {
+      "intent": "beneficios_arroz",
+      "examples": [
+        {
+          "text": "Arroz tem vitaminas?"
+        },
+        {
+          "text": "Arroz branco faz bem à saúde?"
+        },
+        {
+          "text": "Quais os benefícios do arroz integral?"
+        },
+        {
+          "text": "Arroz"
+        },
+        {
+          "text": "Quais vitaminas o arroz tem?"
+        },
+        {
+          "text": "Quais os benefícios do arroz?"
+        }
+      ],
+      "description": "Quais os benefícios do consumo de arroz"
+    },
+    {
+      "intent": "beneficios_frango",
+      "examples": [
+        {
+          "text": "Quais os benefícios do frango ?"
+        },
+        {
+          "text": "Comer frango cozido é bom?"
+        },
+        {
+          "text": "Comer frango frito é bom ?"
+        },
+        {
+          "text": "Comer frango é bom ?"
+        },
+        {
+          "text": "Quais vitaminas tem o frango ?"
+        }
+      ],
+      "description": "Descrever os benefícios do consumo de frango"
+    },
+    {
+      "intent": "beneficios_alimentos",
+      "examples": [
+        {
+          "text": "Quais os benefícios de comer carboidrato?"
+        },
+        {
+          "text": "Quais os benefícios de comer proteína?"
+        },
+        {
+          "text": "Comer salada é bom para saúde?"
+        },
+        {
+          "text": "Comer salada faz bem para à saúde?"
+        },
+        {
+          "text": "Qual o benefícios de comer salada?"
+        },
+        {
+          "text": "O que tem de bom nos alimentos?"
+        },
+        {
+          "text": "Você sabe os benefícios dos alimentos?"
+        },
+        {
+          "text": "Comer proteína faz bem à saúde?"
+        },
+        {
+          "text": "Você pode me dizer quais os benefícios dos alimentos?"
+        }
+      ],
+      "description": "Perguntas que apresentem a intenção de saber sobre benefícios dos alimentos"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "beneficios_carboidrato",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Benefícios arroz",
+          "synonyms": [
+            "arroz"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios batata",
+          "synonyms": [
+            "batata"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios mandioca",
+          "synonyms": [
+            "mandioca"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_prato",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Salada",
+          "synonyms": [
+            "salada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carboidrato",
+          "synonyms": [
+            "carboidrato"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Proteína",
+          "synonyms": [
+            "proteina"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "benefícios_proteina",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Benefícios carne",
+          "synonyms": [
+            "carne"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios peixe",
+          "synonyms": [
+            "peixe"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios frango",
+          "synonyms": [
+            "frango"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_proteina",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Frango Frito",
+          "synonyms": [
+            "Frango Frito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Frango Grelhado",
+          "synonyms": [
+            "Fgrelhado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carne Vermelha Mal Passada",
+          "synonyms": [
+            "malpassada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Peixe Grelhado",
+          "synonyms": [
+            "Pgrelhado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Peixe Frito",
+          "synonyms": [
+            "Pfrito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carne Vermelha ao Ponto",
+          "synonyms": [
+            "aoponto"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carne Vermelha Bem Passada",
+          "synonyms": [
+            "bempassada"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "beneficios_salada",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Benefícios beterraba",
+          "synonyms": [
+            "beterraba"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios cenoura",
+          "synonyms": [
+            "cenoura"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios tomate",
+          "synonyms": [
+            "tomate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Benefícios alface",
+          "synonyms": [
+            "alface"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_carboidratos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Batata Frita",
+          "synonyms": [
+            "batatafrita"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Arroz Normal",
+          "synonyms": [
+            "arroznormal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Arroz integral",
+          "synonyms": [
+            "arrozintegral"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mandioca Frita",
+          "synonyms": [
+            "mandiocafrita"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mandioca Cozida",
+          "synonyms": [
+            "mandiocacozida"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Batata Sauté",
+          "synonyms": [
+            "batatasaute"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_salada",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Não quero",
+          "synonyms": [
+            "Não quero"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nenhuma",
+          "synonyms": [
+            "nenhuma"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Alface",
+          "synonyms": [
+            "alface"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tomate",
+          "synonyms": [
+            "tomate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cenoura",
+          "synonyms": [
+            "cenoura"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Beterraba",
+          "synonyms": [
+            "beterraba"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mix 3 Tipos",
+          "synonyms": [
+            "mix"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Qual o tipo de salada?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1581820647262",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1581820647265",
+      "previous_sibling": "handler_8_1581820647265"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Ótimas opções! Montagem do prato concluída!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1581820647262",
+      "conditions": "@tipo_salada",
+      "event_name": "filled",
+      "dialog_node": "handler_6_1581822523555",
+      "previous_sibling": "handler_1_1581820647265"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Você não escolheu uma opção válida para salada..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1581820647262",
+      "conditions": "@tipo_salada",
+      "event_name": "nomatch",
+      "dialog_node": "handler_6_1581822547771",
+      "previous_sibling": "handler_6_1581822523555"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1581820647262",
+      "context": {
+        "tipo_salada": "@tipo_salada"
+      },
+      "conditions": "@tipo_salada",
+      "event_name": "input",
+      "dialog_node": "handler_8_1581820647265"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Ok! Vamos continuar."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820608577",
+      "conditions": "@tipo_carboidratos",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1581822366910",
+      "previous_sibling": "handler_10_1581820608579"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Qual tipo de carboidrato?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820608577",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1581820608579",
+      "previous_sibling": "handler_4_1581820608579"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Você não escolheu uma opção válida..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820608577",
+      "conditions": "@tipo_carboidratos",
+      "event_name": "nomatch",
+      "dialog_node": "handler_4_1581822396905",
+      "previous_sibling": "handler_9_1581822366910"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1581820608577",
+      "context": {
+        "tipo_carboidratos": "@tipo_carboidratos"
+      },
+      "conditions": "@tipo_carboidratos",
+      "event_name": "input",
+      "dialog_node": "handler_4_1581820608579"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1581868992666",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1581868992670",
+      "previous_sibling": "handler_8_1581868992670"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Um dos principais benefícios da fruta (sim o tomate é uma fruta rsrs) para a saúde, segundo alguns estudos, é ajudar a prevenir o câncer, principalmente o de próstata: o tomate é composto por 2.573 mcg de licopeno, bionutriente relacionado à interrupção da multiplicação de células defeituosas."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_tomate",
+      "event_name": "filled",
+      "dialog_node": "handler_7_1581898117601",
+      "previous_sibling": "handler_2_1581873134298"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Benefícios da cenoura. A cenoura é conhecida como um dos alimentos mais ricos em betacaroteno, um poderoso antioxidante responsável por sua cor alaranjada. Fonte de fibras, minerais como fósforo, potássio, cálcio e sódio e vitamina A, vitamina B2, vitamina B3 e vitamina C."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_cenoura",
+      "event_name": "filled",
+      "dialog_node": "handler_4_1581898310450",
+      "previous_sibling": "handler_8_1581898238666"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "A alface é uma planta herbácea rica em nutrientes e clorofila; e tem a função de alcalinizar e desintoxicar — principalmente o fígado. Esta hortaliça constitui uma importante fonte de vitaminas (A, C e niacina) e sais minerais (sais de enxofre, fósforo, ferro, cálcio e silício)."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_alface",
+      "event_name": "filled",
+      "dialog_node": "handler_2_1581873134298",
+      "previous_sibling": "handler_4_1581869228460"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Beterraba contém sílica, que ajuda o corpo a utilizar o cálcio corretamente. O cálcio é o nutriente essencial para ossos fortes e saudáveis, além de ser rica em outros nutrientes, como ácido fólico, vitamina C, manganês, magnésio e cobre"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_beterraba",
+      "event_name": "filled",
+      "dialog_node": "handler_8_1581898238666",
+      "previous_sibling": "handler_7_1581898117601"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpe, não tenho informações sobre esse alimento..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_alface",
+      "event_name": "nomatch",
+      "dialog_node": "handler_1_1581899777208",
+      "previous_sibling": "handler_4_1581898310450"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "1 – É a fonte mais básica e direta de nutrientes 2 – Protege contra o envelhecimento precoce 3 – Diminui o estresse e a depressão 4 – Fortalece o sistema digestivo 5 – Ajuda na Hidratação do corpo 6 – É a sua fonte principal para o emagrecimento 7 – Mantém a saúde do cérebro 8 – Torna os custos com alimentação menores 9 – Ressalta os pratos principais 10 – Previne uma série de doenças"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_salada",
+      "event_name": "filled",
+      "dialog_node": "handler_4_1581869228460",
+      "previous_sibling": "handler_5_1581868992670"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpe, não tenho informações sobre esse alimento..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1581868992666",
+      "conditions": "#beneficios_beterraba",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1581899818068",
+      "previous_sibling": "handler_1_1581899777208"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1581868992666",
+      "context": {
+        "beneficios_salada": "@beneficios_salada"
+      },
+      "conditions": "@beneficios_salada",
+      "event_name": "input",
+      "dialog_node": "handler_8_1581868992670"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1581818165524",
+      "variable": "$tipo_salada",
+      "dialog_node": "slot_8_1581820647262",
+      "previous_sibling": "slot_9_1581820608577"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1581818165524",
+      "variable": "$tipo_carboidratos",
+      "dialog_node": "slot_9_1581820608577",
+      "previous_sibling": "slot_9_1581820147891"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1581818165524",
+      "variable": "$tipo_proteina",
+      "dialog_node": "slot_9_1581820147891"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1581866556367",
+      "variable": "$beneficios_proteina",
+      "dialog_node": "slot_5_1581869031091",
+      "previous_sibling": "slot_7_1581868992666"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1581866556367",
+      "variable": "$beneficios_carboidrato",
+      "dialog_node": "slot_3_1581869092486",
+      "previous_sibling": "slot_5_1581869031091"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1581866556367",
+      "variable": "$beneficios_salada",
+      "dialog_node": "slot_7_1581868992666"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Possui grande valor nutricional e diversas formas de consumo. A mandioca cozida contém cálcio, magnésio, fósforo, potássio e vitamina C. É uma rica fonte de calorias e carboidratos ---o alimento in natura cozido possui 125 calorias e 30 g de carboidratos em 100 g."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1581869092486",
+      "conditions": "#beneficios_mandioca",
+      "event_name": "filled",
+      "dialog_node": "handler_3_1581900866956",
+      "previous_sibling": "handler_5_1581900782560"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Contém monocolina, substância que ajuda na digestão, na redução do colesterol e na prevenção de doenças do coração. Apesar de ser conhecido como arroz, na verdade é um tipo de grão. Rico em proteínas, fibras e aminoácidos, é também o que apresenta a menor quantidade de gordura. Bom aliado para dietas restritivas"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1581869092486",
+      "conditions": "#beneficios_arroz",
+      "event_name": "filled",
+      "dialog_node": "handler_5_1581900782560",
+      "previous_sibling": "handler_10_1581869092490"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1581869092486",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1581869092490",
+      "previous_sibling": "handler_2_1581869092490"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "A batata é fonte de aminoácidos e vitamina B, superimportantes para o bom funcionamento do sistema nervoso. Além disso, a batata também é rica em carboidratos e, por isso, produz a energia necessária para o cérebro trabalhar. A glucose encontrada nela é importante também para manter a quantidade de oxigênio no sangue."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1581869092486",
+      "conditions": "#beneficios_batata",
+      "event_name": "filled",
+      "dialog_node": "handler_1_1581901573686",
+      "previous_sibling": "handler_3_1581900866956"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1581869092486",
+      "context": {
+        "beneficios_carboidrato": "@beneficios_carboidrato"
+      },
+      "conditions": "@beneficios_carboidrato",
+      "event_name": "input",
+      "dialog_node": "handler_2_1581869092490"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Na carne de frango, encontramos uma enorme variedade de vitaminas, especialmente as vitaminas do complexo B, indispensáveis para o  metabolismo celular, porque são fundamentais em processos energéticos, e são fundamentais para órgãos internos como o estômago, fígado e intestino e órgãos mais exteriores e visíveis como a pele e o cabelo.  A carne de frango é rica em vitamina B3, que é indispensável no sistema respiratório e na dilatação de vasos sanguíneos. A sua carência  conduz à fraqueza muscular e lesões na pele. Também é rica em ferro e em fósforo, promovendo o fortalecimento do organismo."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1581869031091",
+      "conditions": "#beneficios_frango",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1581900686244",
+      "previous_sibling": "handler_5_1581900430723"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Incluir peixes regularmente na dieta trás benefícios como melhorar a memória, a concentração, prevenir doenças cardiovasculares e reduzir a inflamação. Além disso, consumir peixes ajuda na perda de peso, pois normalmente são fontes de proteínas com menos calorias do que as carnes vermelhas e o frango, favorecendo dietas de emagrecimento."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1581869031091",
+      "conditions": "#beneficios_peixe",
+      "event_name": "filled",
+      "dialog_node": "handler_5_1581900430723",
+      "previous_sibling": "handler_10_1581900396017"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "A carne bovina fornece uma grande fonte de L-carnitina A L-carnitina é um aminoácido que ocorre naturalmente em produtos à base de carne. Entre outras funções, a L-carnitina desempenha um papel no metabolismo das gorduras. Como parte disto, L-Carnitine faz o trabalho de transportar gorduras para nossas mitocôndrias para queimar."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1581869031091",
+      "conditions": "#beneficios_carne_vermelha",
+      "event_name": "filled",
+      "dialog_node": "handler_10_1581900396017",
+      "previous_sibling": "handler_6_1581869031095"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1581869031091",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1581869031095",
+      "previous_sibling": "handler_10_1581869031095"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1581869031091",
+      "context": {
+        "beneficios_proteina": "@benefícios_proteina"
+      },
+      "conditions": "@benefícios_proteina",
+      "event_name": "input",
+      "dialog_node": "handler_10_1581869031095"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Ok!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820147891",
+      "conditions": "@tipo_proteina",
+      "event_name": "filled",
+      "dialog_node": "handler_2_1581822015278",
+      "previous_sibling": "handler_9_1581821469871"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Você não informou um tipo de proteína válido..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820147891",
+      "conditions": "@tipo_proteina",
+      "event_name": "nomatch",
+      "dialog_node": "handler_9_1581821469871",
+      "previous_sibling": "handler_2_1581820147894"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Vamos começar a montar seu prato! Qual o tipo de proteína?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1581820147891",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1581820147894",
+      "previous_sibling": "handler_4_1581820147894"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1581820147891",
+      "context": {
+        "tipo_proteina": "@tipo_proteina"
+      },
+      "conditions": "@tipo_proteina",
+      "event_name": "input",
+      "dialog_node": "handler_4_1581820147894"
+    },
+    {
+      "type": "frame",
+      "title": "Montar prato",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "conditions": "#montar_prato",
+      "dialog_node": "node_5_1581818165524"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_8_1581866556367",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "frame",
+      "title": "#benefícios",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu estou preparado para te ajudar com algumas informações. Proteínas : Frango , Peixe ou Carne Vermelha. Sobre saladas: Tomate, Cenoura, Beterraba, Alface. E Carboidratos: Arroz Normal ou Integral, Mandioca e Batata. Sobre qual alimento deseja saber os benefícios?"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1581818165524"
+      },
+      "conditions": "#beneficios_alimentos || #beneficios_alface || #beneficios_cenoura || #beneficios_beterraba || #beneficios_tomate || #beneficios_arroz || #beneficios_batata || #beneficios_mandioca || #beneficios_carne_vermelha || #beneficios_frango || #beneficios_peixe",
+      "dialog_node": "node_8_1581866556367",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Food",
+  "language": "pt-br",
+  "description": ""
+}
