@@ -1,14 +1,11 @@
+const AssistantV1 = require('ibm-watson/assistant/v1');
 const express = require('express');
 const bodyParser = require('body-parser');
 const { IamAuthenticator } = require('ibm-watson/auth');
 const app = express();
 const port = 3000;
 
-
 app.use(bodyParser.json());
-
-
-const AssistantV1 = require('ibm-watson/assistant/v1');
 
 
 /*Dados da credencial Watson*/
@@ -18,18 +15,23 @@ const assistant = new AssistantV1({
   version: '2018-02-16'
 });
 
+app.post('/conversation/', (req, res) => {
+  const { text, context = {} } = req.body;
 
-assistant.message(
-  {
-    input: { text: "Quais os benefícios do tomate?" },
-    workspaceId: '5174b70f-8fc8-4234-8d19-abe63e61e46c'
-  })
-  .then(response => {
-    console.log(JSON.stringify(response.result, null, 2));
-  })
-  .catch(err => {
-    console.log(err);
+  const params = {
+    input: { text },
+    workspaceId: '5174b70f-8fc8-4234-8d19-abe63e61e46c',
+    context,
+  };
+
+  assistant.message(params, (err, response) => {
+    if (err) {
+      console.error(err);
+      res.status(500).json(err);
+    } else {
+      res.json(response);
+    }
   });
-  
+});
 
 app.listen(port, () => console.log(`Running on port ${port}`));
